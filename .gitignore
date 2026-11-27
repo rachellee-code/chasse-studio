@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.DS_Store
+.vercel/
+artifacts/
+
+# Local verification notes and environment files
+docs/verification.md
+.env
+.env.*
+!.env.example
+*.log
