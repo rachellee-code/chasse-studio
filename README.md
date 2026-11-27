@@ -4,7 +4,11 @@
 
 ## 在线访问
 
-当前网站源码已上传到 GitHub，在线网站尚未发布。正式访问链接会在部署完成后补充。
+网站已通过 GitHub Pages 发布：
+
+**[访问 Chasse Studio 网站](https://rachellee-code.github.io/chasse-studio/)**
+
+源码仓库：[rachellee-code/chasse-studio](https://github.com/rachellee-code/chasse-studio)。
 
 下面的 `127.0.0.1` 是本机开发地址，只在本地预览服务运行时可用，不能作为对外访问链接。
 
